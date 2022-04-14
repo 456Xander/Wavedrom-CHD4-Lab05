@@ -1,0 +1,6 @@
+{signal: [
+  {name: 'clk', wave: 'p........'},
+  {name: 'addr', wave: 'x4x.56x', data: ['A1', 'A2', 'A3']},
+  {name: 'write_data', wave: 'x4x.56x', data: ['D1', 'D2', 'D3']},
+  {name: 'write_en', wave: '010.1.0.'}
+]}
